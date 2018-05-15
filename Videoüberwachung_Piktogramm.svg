@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 "
+   width="239.28pt"
+   height="238.88998pt"
+   sodipodi:docname="Piktogramm_Videoüberwachung_nach_DIN_33450.svg"
+   inkscape:export-filename="c:\temp\wp\Piktogramm Videoüberwachung nach DIN 33450.2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   version="1.0">
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:description>&quot;Graphisches Symbol zum Hinweis auf Beobachtung mit optisch-elektronischen Einrichtungen (Video-Infozeichen) gemäß Norm-Entwurf DIN 33450 &quot;</dc:description>
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Johann H. Addicks</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>gezeichnet nach Inspiration durch http://www.heise.de/newsticker/meldung/47148 von Johann H. Addicks</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:source>Deutsches Institut für Normung e.V. </dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Videoüberwachung</rdf:li>
+            <rdf:li>Videobeobachtung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 149.30624 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="299.10001 : 149.30624 : 1"
+       inkscape:persp3d-origin="149.55 : 99.537496 : 1"
+       id="perspective11" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="937"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="2.6550296"
+     inkscape:cx="134.0495"
+     inkscape:cy="163.61544"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3591" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="m 143.04255,7.097557 29.71054,0 0,76.889085 -29.71054,7.76356 0,-84.652645 z"
+     id="path1400" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="M 30.91885,128.62711 102.58247,227.61249 280.54712,179.83674 250.83658,69.504624 30.91885,128.62711 z"
+     id="path1402" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="m 20,168.53932 28.088252,-7.66357 15.228523,54.0463 L 35.547114,223.5814 20,168.53932 z"
+     id="path1404"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 293.08701,7.07201 L 293.18793,292.97355 L 6.98363,292.97355 L 6.88271,6.97109 L 293.08701,7.07201 z "
+     id="path1408" />
+</svg>
